@@ -1,1 +1,1 @@
-# RSNA-EfficientNetModels
+# RSNA EfficientNet models
